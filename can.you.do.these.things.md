@@ -1,0 +1,80 @@
+# Can You Do These Things?
+
+## Preamble
+
+This is a list of things that you should know how to do at this time. If there's anything in here you don't know how to do, you should figure it out by getting help from somewhere or someone. (Folks in your class and your instructor are good places to start. The web is OK, but finding useful help can be time-consuming.)
+
+---
+
+# I know...
+
+## General course-related stuff
+
+- [ ] ...where to find Jordan's schedule
+- [ ] ...where to find Jordan's email
+- [ ] ...where to find Jordan
+- [ ] ...how to get to the 1501/1502 Discord
+- [ ] ...I should check announcements regularly (or have them pushed to my email)
+- [ ] ...where to find the due dates of everything
+- [ ] ...how much each assignment, drill, quiz, and final counts toward my final grade
+
+## REPL.IT stuff
+
+- [ ] ...how to submit a drill
+- [ ] ...how to test a drill
+- [ ] ...how to interpret drill test error messages
+- [ ] ...how to interpret the Tests section of the instructions
+- [ ] ...that I can submit drill late for partial marks
+- [ ] ...that not keeping up with drills is a sure way to enter The Death Spiral
+
+## Eclipse stuff
+
+- [ ] ...how to get a starting quiz from GitHub into Eclipse
+- [ ] ...how to run a Main.java in a project
+- [ ] ...how to run any tests that are present in a project
+- [ ] ...what the "red squiggles", "red boxes", and "red x's" mean
+- [ ] ...where the console is
+- [ ] ...where to find the source code in a project
+
+## Java stuff
+
+- [ ] ...how to use print and println to output a variety of things to the console
+- [ ] ...where to find information on String and Math methods in the Java 12 API
+- [ ] ...how to format data using String.format, in particular:
+  - [ ] ...what format specifiers are and how to use simple ones for all basic types (int, double, String)
+  - [ ] ...what format specifiers to use for displaying a number of decimal places
+  - [ ] ...what format specifiers to use for left-aligning a field
+  - [ ] ...what format specifiers to use for specifying a field width
+  - [ ] ...where to find help on format specifiers if I don't know
+- [ ] ...how print and println differ
+- [ ] ...how to concatenate things
+- [ ] ...how to call methods on a String variable using dot notation
+- [ ] ...common String methods (like length, charAt, substring, toUpperCase, etc) and know where to find others
+- [ ] ...how to use common Math methods (like min, max, round) and know where to find others
+- [ ] ...the difference between a void method and a value-returning method
+- [ ] ...what a return statement does and when I need to use one
+- [ ] ...the parts of a method (header, body)
+- [ ] ...the difference between a method header and a method body
+- [ ] ...the difference between a method header and a method signature
+- [ ] ...how to declare variables of various types, like int, double, String
+- [ ] ...how to initialize variables
+- [ ] ...that naming variables well is super-important
+- [ ] ...how to assign values to variables
+- [ ] ...the Java naming _rules_ for variables, methods, parameters, and classes
+- [ ] ...the Java naming _conventions_ for variables, methods, parameters, and classes
+- [ ] ...what camel case and Pascal case mean
+- [ ] ...how to create a Scanner variable that will let me get input from the keyboard
+- [ ] ...how to get Strings, ints, and doubles from a Scanner object
+- [ ] ...how next and nextLine differ
+- [ ] ...the arithmetic operators I can use in Java
+- [ ] ...the difference between expressions like 13 / 3 and 13 % 3
+- [ ] ...how to cast doubles to ints
+- [ ] ...how to evaluate a mathematical expression in Java and am wary of the order of operations
+- [ ] ...how to convert a math expression that I might find in a math textbook into a Java expression
+- [ ] ...how to write both single line and multi-line Java comments
+- [ ] ...what an empty String is and how to make one
+- [ ] ...how to visualize a String as a series of characters, each letter having an index
+- [ ] ...what a method parameter is
+- [ ] ...what a method argument is
+- [ ] ...how parameters and arguments are related
+- [ ] ...how to name methods well and realize that void and value-returning methods should be named differently

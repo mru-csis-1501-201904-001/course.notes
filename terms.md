@@ -1,0 +1,78 @@
+# Terms You Should Know
+
+This is a list of terms you should know. It's probably not exhaustive, though it is likely exhausting.
+
+I am **much** more interested in whether you can _understand_ these terms than _define_ them. If you can have a sensible conversation using these terms with someone who also knows them, then that's much more useful than spouting definitions.
+
+---
+
+- [ ] algorithm
+- [ ] programming
+- [ ] CPU
+- [ ] memory (primary / secondary)
+- [ ] I/O device
+- [ ] source file
+- [ ] class file
+- [ ] bytecode
+- [ ] compile / compiler
+- [ ] Java Virtual Machine (JVM)
+- [ ] syntax error
+- [ ] run-time error
+- [ ] type (int, double, String)
+- [ ] primitive / reference type
+- [ ] variable
+- [ ] declare (a variable)
+- [ ] initialize (a variable)
+- [ ] console
+- [ ] cast
+- [ ] class
+- [ ] method
+- [ ] method body
+- [ ] method signature
+- [ ] method return value
+- [ ] parameter
+- [ ] argument
+- [ ] call (a method)
+- [ ] Pascal case
+- [ ] camel case
+- [ ] pseudocode
+- [ ] value-returning method
+- [ ] void method
+- [ ] index
+- [ ] String methods
+  - [ ] length()
+  - [ ] substring(int, int)
+  - [ ] substring(int)
+  - [ ] toUpperCase()
+  - [ ] toLowerCase()
+  - [ ] replaceAll(String, String)
+  - [ ] indexOf(String)
+  - [ ] lastIndexOf(String)
+- [ ] concatenate
+- [ ] case-(in)sensitive
+- [ ] Math methods
+  - [ ] max(int, int)
+  - [ ] min(int, int)
+  - [ ] ceil(double)
+  - [ ] floor(double)
+- [ ] System.out.print()/println()
+- [ ] arithmetic operator
+- [ ] String.format()
+  - [ ] format string
+  - [ ] format specifier
+  - [ ] conversion character (d, f, s)
+  - [ ] width
+  - [ ] precision (decimal places)
+- [ ] Scanner
+- [ ] System.in
+- [ ] import
+- [ ] reading input from keyboard with:
+  - [ ] next()
+  - [ ] nextLine()
+  - [ ] nextInt()
+  - [ ] nextDouble()
+- [ ] trace
+- [ ] white space character
+- [ ] newline character
+- [ ] prompt
+- [ ] utility/helper class
