@@ -25,6 +25,9 @@ We'll trace a more complex piece of pseudocode and introduce conditions (non-nes
   - [ ] a sack
   - [ ] a bank account
   - [ ] a cage
+- [ ] look up the Java syntax for if, if-else, and if-else if-else statements. Don't worry about conditions using &&,||, or ! for now.
+  - [ ] section 3.1 & 3.3 in the text
+  - [ ] Oracle's Java Tutorials has this: <https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html> ... you might find better elsewhere online
 
 ### Terms
 
