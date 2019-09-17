@@ -76,3 +76,5 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] newline character
 - [ ] prompt
 - [ ] utility/helper class
+- [ ] div (/)
+- [ ] mod (%)

@@ -78,3 +78,4 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...what a method argument is
 - [ ] ...how parameters and arguments are related
 - [ ] ...how to name methods well and realize that void and value-returning methods should be named differently
+- [ ] ...how to trace through code step-by-step, tracking changes in variables
