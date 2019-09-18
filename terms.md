@@ -55,6 +55,7 @@ I am **much** more interested in whether you can _understand_ these terms than _
   - [ ] min(int, int)
   - [ ] ceil(double)
   - [ ] floor(double)
+  - [ ] round(double)
 - [ ] System.out.print()/println()
 - [ ] arithmetic operator
 - [ ] String.format()
@@ -78,3 +79,9 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] utility/helper class
 - [ ] div (/)
 - [ ] mod (%)
+- [ ] Boolean variable
+- [ ] true/false
+- [ ] condition
+- [ ] if statement
+- [ ] relational operator (=, !=, >, <, >=, <=)
+- [ ] Boolean operator (&&, ||, !)
