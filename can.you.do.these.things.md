@@ -79,3 +79,6 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...how parameters and arguments are related
 - [ ] ...how to name methods well and realize that void and value-returning methods should be named differently
 - [ ] ...how to trace through code step-by-step, tracking changes in variables
+- [ ] ...how to represent decisions in code using the if statement
+- [ ] ...how to create simple conditions using numbers and relational operators
+- [ ] ...how to create a Boolean variable that will hold a true/false value
