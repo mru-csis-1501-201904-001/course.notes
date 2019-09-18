@@ -246,6 +246,7 @@ ceil(a)
 - ceiling(2.0001) = 3
 - ceiling(4321) = 4321
 - ceiling(-2.8) = -2
+- ceiling(-2.01) = -2
 
 ---
 
@@ -266,6 +267,7 @@ floor(a)
 - floor(2.99999) = 2
 - floor(4321) = 4321
 - floor(-2.8) = -3
+- floor(-2.01) = -3
 
 ---
 
@@ -288,6 +290,65 @@ round(a)
 - round(4321) = 4321
 - round(-2.8) = -3
 - round(-2.5) = -2
-- round(-2.4) = -1
+- round(-2.4) = -2
 
+---
+
+## Selection
+
+```text
+if ([condition]) then
+  // code to run if [condition] is true
+end if
+
+OR
+
+if ([condition]) then
+  // code to run if [condition] is true
+else 
+  // code to run if [condition] is false
+end if
+
+OR
+
+if ([condition 1]) then
+  // code to run if [condition 1] is true
+else if ([condition 2]) then
+  // code to run if [condition 2] is true
+else
+  // code to run if none of the prior conditions are true
+end if
+```
+
+### Notes
+
+- [condition] is anything that evaluates to true or false
+  - [ ] can be a simple comparison (like x <= 10)_
+  - [ ] can be more complex, with AND, OR, and !(not) (like height > 10 OR (name == "john" AND age != 2))
+
+### Examples
+
+- ```java
+  if (missileCode = 123) then
+    display "launching missiles"
+  end if
+  ```
+- ```java
+  if (daysInFridge > 20 AND foodColor = "green") then
+    return "throw that out!"
+  else
+    return "should be safe..."
+  end if  
+  ```
+- ```java
+  if (day = 25 AND month = "December") then
+    // Santa is coming
+  else if (day = 31 AND month = "October") then
+    // the Great Pumpkin is coming
+  else if (today.isEaster()) then
+    // the Easter Bunny is coming
+  else
+    // your life is a joyless thing
+  end if 
+  ```
 ---
