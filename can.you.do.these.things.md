@@ -82,3 +82,9 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...how to represent decisions in code using the if statement
 - [ ] ...how to create simple conditions using numbers and relational operators
 - [ ] ...how to create a Boolean variable that will hold a true/false value
+- [ ] ...how to create a instance variable
+- [ ] ...how to create a method signature from a method header
+- [ ] ...how to create a method header from a method signature
+- [ ] ...how to figure out a method signature from how it's called
+- [ ] ...how to figure out the return type of a method from how it's called
+- [ ] ...when to use the static keyword in a method header

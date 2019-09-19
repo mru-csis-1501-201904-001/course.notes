@@ -30,6 +30,7 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] method body
 - [ ] method signature
 - [ ] method return value
+- [ ] method header
 - [ ] parameter
 - [ ] argument
 - [ ] call (a method)
@@ -85,3 +86,6 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] if statement
 - [ ] relational operator (=, !=, >, <, >=, <=)
 - [ ] Boolean operator (&&, ||, !)
+- [ ] state
+- [ ] behaviour
+- [ ] instance variable (a.k.a. field)
