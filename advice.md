@@ -4,9 +4,11 @@ Just a repository for advice from _moi_ to _vous_.
 
 ## 2019-SEP-20
 
-As noted in the [lec.05](lecture.and.lab.notes/09.18.lec.05.md) and [lab.04](lecture.and.lab.notes/09.20.lab.04.md) notes, you should learn the syntax for Java if statements on your own - it's pretty darn close to the pseudocode versions.
+- As noted in the [lec.05](lecture.and.lab.notes/09.18.lec.05.md) and [lab.04](lecture.and.lab.notes/09.20.lab.04.md) notes, you should learn the syntax for Java if statements on your own - it's pretty darn close to the pseudocode versions.
 
-You are only expected to know how to **read** simple conditions (those not using && and ||) in Java, not write them.
+  You are only expected to know how to **read** simple conditions (those not using && and ||) in Java, not write them.
+
+- Don't forget to look at my solutions from time to time when you finish drills!
 
 ## 2019-SEP-17
 
