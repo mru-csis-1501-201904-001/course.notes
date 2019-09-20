@@ -2,6 +2,12 @@
 
 Just a repository for advice from _moi_ to _vous_.
 
+## 2019-SEP-20
+
+As noted in the [lec.05](lecture.and.lab.notes/09.18.lec.05.md) and [lab.04](lecture.and.lab.notes/09.20.lab.04.md) notes, you should learn the syntax for Java if statements on your own - it's pretty darn close to the pseudocode versions.
+
+You are only expected to know how to **read** simple conditions (those not using && and ||) in Java, not write them.
+
 ## 2019-SEP-17
 
 Practice tracing code on a regular basis. This can be as simple as tracing what happens in your own drill code: when you're working on a drill, every now and then ask yourself "what will happen in this method if I have these parameter values"?
