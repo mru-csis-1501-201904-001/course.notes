@@ -88,3 +88,7 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...how to figure out a method signature from how it's called
 - [ ] ...how to figure out the return type of a method from how it's called
 - [ ] ...when to use the static keyword in a method header
+- [ ] ...how to create an instance method for a class
+- [ ] ...how to create an instance variable for a class and promise to always make them private
+- [ ] ...how to determine the scope of variables, including instance variables and parameters
+- [ ] ...how to code a constructor, despite it having an odd method header

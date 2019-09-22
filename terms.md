@@ -89,3 +89,8 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] state
 - [ ] behaviour
 - [ ] instance variable (a.k.a. field)
+- [ ] instance method
+- [ ] instance
+- [ ] public interface
+- [ ] constructor
+- [ ] (variable) scope
