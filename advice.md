@@ -2,6 +2,11 @@
 
 Just a repository for advice from _moi_ to _vous_.
 
+## 2019-SEP-23
+
+- The most effective way to "study" for this course? Solve lots of problems, preferably to the Java code stage, but even just working to the natural language algorithm or pseudocode stage is helpful. The textbook is a fanttastic resource for this: its review questions and practice exercise sections are great because of their variety and their marked difficulty levels. The programming projects are good places to practice too, though they can take a while to work through, particularly the higher-difficulty ones. If you haven't purchased the text, remember that there are two copies on reserve at the Library.
+- Reading code - and preferable tracing through it, even if only in your head or on paper - is an equally effective study method. What code is there available to read? Anything from drills (my code, your code, a friend's code), practice quizzes, old midterms...it's all good. Ask yourself questions like "if these inputs were passed into this method, what would come out?" and "if the user inputs these values at the keyboard, what will happen?".
+
 ## 2019-SEP-20
 
 - As noted in the [lec.05](lecture.and.lab.notes/09.18.lec.05.md) and [lab.04](lecture.and.lab.notes/09.20.lab.04.md) notes, you should learn the syntax for Java if statements on your own - it's pretty darn close to the pseudocode versions.
