@@ -2,6 +2,10 @@
 
 Just a repository for advice from _moi_ to _vous_.
 
+## 2019-SEP-24
+
+- If you did not get an A or A+ on your quiz...redo it until you do. I'm serious. If you're stuck on something, ask for help - either from me or a classmate. If you had **any** issues getting started, or running tests, or submitting...ADDRESS THOSE ISSUES before the next lab quiz!
+
 ## 2019-SEP-23
 
 - The most effective way to "study" for this course? Solve lots of problems, preferably to the Java code stage, but even just working to the natural language algorithm or pseudocode stage is helpful. The textbook is a fanttastic resource for this: its review questions and practice exercise sections are great because of their variety and their marked difficulty levels. The programming projects are good places to practice too, though they can take a while to work through, particularly the higher-difficulty ones. If you haven't purchased the text, remember that there are two copies on reserve at the Library.
