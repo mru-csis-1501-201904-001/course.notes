@@ -1,5 +1,22 @@
 # COMP1501-001 Pseudocode Cheat Sheet
 
+## Displaying something
+
+```text
+display [whatever]
+```
+
+### Notes
+
+- displays [whatever] to some output device
+
+### Examples
+
+- display "That's correct!"
+- display thisVariable
+
+---
+
 ## Assigning a value to a variable
 
 ```text
