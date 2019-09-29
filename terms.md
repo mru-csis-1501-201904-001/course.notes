@@ -94,3 +94,8 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] public interface
 - [ ] constructor
 - [ ] (variable) scope
+- [ ] constant
+- [ ] magic number
+- [ ] screaming snake case
+- [ ] helper method
+- [ ] private

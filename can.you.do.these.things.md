@@ -92,3 +92,6 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...how to create an instance variable for a class and promise to always make them private
 - [ ] ...how to determine the scope of variables, including instance variables and parameters
 - [ ] ...how to code a constructor, despite it having an odd method header
+- [ ] ...when to create a constant for a magic number and when not to.
+- [ ] ...how to declare a constant in Java and can follow Java naming conventions for doing so.
+- [ ] ...how to create a private helper method in my classes and the benefits of doing so.
