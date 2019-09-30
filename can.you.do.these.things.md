@@ -95,3 +95,4 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...when to create a constant for a magic number and when not to.
 - [ ] ...how to declare a constant in Java and can follow Java naming conventions for doing so.
 - [ ] ...how to create a private helper method in my classes and the benefits of doing so.
+- [ ] ...how to compare Strings properly with .equals and .equalsIgnoreCase and not ==
