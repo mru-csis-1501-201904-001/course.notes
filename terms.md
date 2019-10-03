@@ -104,3 +104,4 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] Boolean expression
 - [ ] `this.`
 - [ ] (variable) scope
+- [ ] toString()

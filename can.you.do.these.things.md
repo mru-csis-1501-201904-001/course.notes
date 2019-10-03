@@ -99,3 +99,4 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...how to create a complex Boolean expression using the Boolean operators (&&, ||, !)
 - [ ] ...how to use `this.` to refer to instance variables and avoid naming conflicts with other variables
 - [ ] ...how to determine the scope of any variable (including instance variables and parameters)
+- [ ] ...what happens when I System.out.println **any** object in Java and what I need to do if I don't like that behaviour.
