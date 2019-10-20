@@ -105,3 +105,4 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] `this.`
 - [ ] (variable) scope
 - [ ] toString()
+- [ ] method overloading
