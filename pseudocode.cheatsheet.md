@@ -1,5 +1,22 @@
 # COMP1501-001 Pseudocode Cheat Sheet
 
+## Displaying something
+
+```text
+display [whatever]
+```
+
+### Notes
+
+- displays [whatever] to some output device
+
+### Examples
+
+- display "That's correct!"
+- display thisVariable
+
+---
+
 ## Assigning a value to a variable
 
 ```text
@@ -305,7 +322,7 @@ OR
 
 if ([condition]) then
   // code to run if [condition] is true
-else 
+else
   // code to run if [condition] is false
 end if
 
@@ -323,7 +340,7 @@ end if
 ### Notes
 
 - [condition] is anything that evaluates to true or false
-  - [ ] can be a simple comparison (like x <= 10)_
+  - [ ] can be a simple comparison (like x <= 10)
   - [ ] can be more complex, with AND, OR, and !(not) (like height > 10 OR (name == "john" AND age != 2))
 
 ### Examples
@@ -338,7 +355,7 @@ end if
     return "throw that out!"
   else
     return "should be safe..."
-  end if  
+  end if
   ```
 - ```java
   if (day = 25 AND month = "December") then
@@ -349,6 +366,100 @@ end if
     // the Easter Bunny is coming
   else
     // your life is a joyless thing
-  end if 
+  end if
   ```
+
+---
+
+## Looping
+
+```text
+do/repeat n times
+  // code to run n times
+end
+
+OR
+
+while ([condition]) do
+  // code to run while [condition] is true
+end
+
+OR
+
+do/repeat
+  // code to run while [condition] is true
+while ([condition])
+
+OR
+
+do/repeat
+  // code to run until [condition] is true
+until ([condition])
+
+OR
+
+for (i = [low] to [high]) do
+  // code to run while i is <= high
+  // i increases by one each time
+end
+
+OR
+
+for each ([thing] in [collection of things]) do
+  // code to run with [thing]
+  // each [thing] in [collection] is provided once, in order
+end
+```
+
+### Notes
+
+- [condition] is anything that evaluates to true or false
+  - [ ] can be a simple comparison (like x <= 10)
+  - [ ] can be more complex, with AND, OR, and !(not) (like height > 10 OR (name == "john" AND age != 2))
+
+### Examples
+
+- ```text
+  repeat 3 times
+    display "There's no place like home."
+  end
+  ```
+
+- ```text
+  while (life > 0 AND gold > 0)
+    playOneRound()
+  end
+  ```
+
+- ```text
+  repeat
+    mark := get mark from file
+    display mark
+  while (marksLeftInFile)
+  ```
+
+- ```text
+  do
+    grab a handful of popcorn
+    shove handful in mouth
+  until (popcornIsGone)
+  ```
+
+- ```text
+  for (i = 0 to word.length()) do
+    letter = word.substring(i, i + 1)
+    if (letter is a vowel) then
+      print "that's a vowel"
+    end if
+  end
+  ```
+
+- ```text
+  for each (letter in word) do
+    if (letter is a vowel) then
+      print "that's a vowel"
+    end if
+  end
+  ```
+
 ---

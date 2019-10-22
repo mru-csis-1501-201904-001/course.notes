@@ -84,7 +84,7 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] true/false
 - [ ] condition
 - [ ] if statement
-- [ ] relational operator (=, !=, >, <, >=, <=)
+- [ ] relational operator (==, !=, >, <, >=, <=)
 - [ ] Boolean operator (&&, ||, !)
 - [ ] state
 - [ ] behaviour
@@ -94,3 +94,15 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] public interface
 - [ ] constructor
 - [ ] (variable) scope
+- [ ] constant
+- [ ] magic number
+- [ ] screaming snake case
+- [ ] helper method
+- [ ] private
+- [ ] equals
+- [ ] equalsIgnoreCase
+- [ ] Boolean expression
+- [ ] `this.`
+- [ ] (variable) scope
+- [ ] toString()
+- [ ] method overloading
