@@ -102,3 +102,6 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...what happens when I System.out.println **any** object in Java and what I need to do if I don't like that behaviour.
 - [ ] ...how to write an overloaded method.
 - [ ] ...how to call an overloaded method.
+- [ ] ...how to use loops (while, for, for each) to perform tasks repeatedly.
+- [ ] ...how to convert a while loop to a for loop and a for loop to a while loop.
+- [ ] ...how to write a sentinel loop.

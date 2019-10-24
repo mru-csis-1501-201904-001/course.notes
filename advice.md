@@ -2,6 +2,10 @@
 
 Just a repository for advice from _moi_ to _vous_.
 
+## 2019-SEP-25
+
+- If you got hurt on the lecture quiz, just get back on the horse. This ain't a sprint - you had a setback but there are weeks left to go. What you MUST do is go over the midterm and use it to fill in the gaps in your understanding. Got something wrong? Study that, or ask questions to JP or your classmates about it. Then take the quiz again (maybe try the other version). Still stuck on things? Then go over them again.
+
 ## 2019-SEP-24
 
 - If you did not get an A or A+ on your quiz...redo it until you do. I'm serious. If you're stuck on something, ask for help - either from me or a classmate. If you had **any** issues getting started, or running tests, or submitting...ADDRESS THOSE ISSUES before the next lab quiz!

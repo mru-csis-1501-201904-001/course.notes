@@ -106,3 +106,9 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] (variable) scope
 - [ ] toString()
 - [ ] method overloading
+- [ ] loop control variable (LCV)
+- [ ] while loop
+- [ ] sentinel value
+- [ ] sentinel loop
+- [ ] infinite loop
+- [ ] for loop
