@@ -112,3 +112,4 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] sentinel loop
 - [ ] infinite loop
 - [ ] for loop
+- [ ] ArrayList

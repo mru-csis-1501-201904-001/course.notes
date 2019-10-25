@@ -105,3 +105,9 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...how to use loops (while, for, for each) to perform tasks repeatedly.
 - [ ] ...how to convert a while loop to a for loop and a for loop to a while loop.
 - [ ] ...how to write a sentinel loop.
+- [ ] ...how to create an ArrayList that holds a certain type of thing.
+- [ ] ...how to add things to an ArrayList.
+- [ ] ...how to remove things from an ArrayList.
+- [ ] ...how to get things from a specific index in an ArrayList.
+- [ ] ...how to find the number of things in an ArrayList.
+- [ ] ...how to iterate through elements of an ArrayList.
