@@ -405,7 +405,7 @@ end
 
 OR
 
-for each ([thing] in [collection of things]) do
+for each/every ([thing] in [collection of things]) do
   // code to run with [thing]
   // each [thing] in [collection] is provided once, in order
 end

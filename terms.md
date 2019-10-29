@@ -88,7 +88,7 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] Boolean operator (&&, ||, !)
 - [ ] state
 - [ ] behaviour
-- [ ] instance variable (a.k.a. field)
+- [ ] instance variable (a.k.a. field) vs local variable vs. parameter
 - [ ] instance method
 - [ ] instance
 - [ ] public interface
@@ -103,7 +103,6 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] equalsIgnoreCase
 - [ ] Boolean expression
 - [ ] `this.`
-- [ ] (variable) scope
 - [ ] toString()
 - [ ] method overloading
 - [ ] loop control variable (LCV)
