@@ -111,4 +111,4 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...how to get things from a specific index in an ArrayList.
 - [ ] ...how to change things at a specific index in an ArrayList.
 - [ ] ...how to find the number of things in an ArrayList.
-- [ ] ...how to iterate through elements of an ArrayList.
+- [ ] ...how to iterate through elements of an ArrayList (for loop or for-each loop)
