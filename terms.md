@@ -113,3 +113,6 @@ I am **much** more interested in whether you can _understand_ these terms than _
 - [ ] for loop
 - [ ] ArrayList
 - [ ] for each loop
+- [ ] PrintWriter
+- [ ] FileNotFoundException
+- [ ] throws
