@@ -115,3 +115,4 @@ This is a list of things that you should know how to do at this time. If there's
 - [ ] ...how to write text to a file?
 - [ ] ...how to read text from a file?
 - [ ] ...how to handle FileNotFoundExceptions by throwing?
+- [ ] ...how to create standard getter/setters (accessor/mutators) for instance variables?
